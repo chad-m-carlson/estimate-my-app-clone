@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  quote_id: MyString
+  customer_email: MyString
+  application: MyString
+  total_price: 1
+  application_price: 1
+  developer_day_rate: 1
+  designer_day_rate: 1
+
+two:
+  quote_id: MyString
+  customer_email: MyString
+  application: MyString
+  total_price: 1
+  application_price: 1
+  developer_day_rate: 1
+  designer_day_rate: 1

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_name: MyString
+  customer_email: MyString
+  developer_day_rate: 1
+  designer_day_rate: 1
+
+two:
+  customer_name: MyString
+  customer_email: MyString
+  developer_day_rate: 1
+  designer_day_rate: 1

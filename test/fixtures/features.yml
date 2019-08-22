@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  developer_boolean: false
+  base_days: MyString
+  category: one
+
+two:
+  name: MyString
+  description: MyText
+  developer_boolean: false
+  base_days: MyString
+  category: two

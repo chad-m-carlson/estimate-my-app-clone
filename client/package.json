@@ -27,7 +27,7 @@
     "sortabular": "^1.6.0",
     "styled-components": "^4.3.2",
     "table-resolver": "^4.1.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "proxy": "http://localhost:3001",
   "scripts": {
